@@ -1,0 +1,3 @@
+{"device_id":"D1","temperature_c":18,"humidity":40}
+this is not valid JSON
+{"device_id":"D2","temperature_c":26,"humidity":50}
