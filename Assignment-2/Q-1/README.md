@@ -59,19 +59,9 @@ Open a terminal or command prompt in the project folder.
 
 ### Step 3: Run the Program
 
-Replace `YOUR_ENROLLMENT_NO` with your actual enrollment number.
-
 ```bash
-python YOUR_ENROLLMENT_NO_Assignment2_Q1.py sample.txt
+python 12402080601054_Assignment2_Q1.py sample.txt
 ```
-
-### Step 4: Use Another Text File
-
-```bash
-python YOUR_ENROLLMENT_NO_Assignment2_Q1.py input.txt
-```
-
-Replace `input.txt` with the path to your text file.
 
 ## 6. Input Format
 
